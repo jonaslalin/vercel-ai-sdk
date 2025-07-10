@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.0-beta.13
+
+### Patch Changes
+
+- 377bbcf: fix (ui): tool input can be undefined during input-streaming
+
 ## 5.0.0-beta.12
 
 ### Patch Changes
