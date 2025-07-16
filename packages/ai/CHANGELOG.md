@@ -1,5 +1,13 @@
 # ai
 
+## 5.0.0-beta.21
+
+### Patch Changes
+
+- faea29f: fix (provider/openai): multi-step reasoning with text
+- 4a1e0c8: fix(ai-cli): fix bundling and improve authentication error handling
+- 30ac566: fix (ui): text message metadata support in ui messages
+
 ## 5.0.0-beta.20
 
 ### Patch Changes

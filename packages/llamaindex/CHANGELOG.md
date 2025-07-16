@@ -1,5 +1,14 @@
 # @ai-sdk/llamaindex
 
+## 1.0.0-beta.21
+
+### Patch Changes
+
+- Updated dependencies [faea29f]
+- Updated dependencies [4a1e0c8]
+- Updated dependencies [30ac566]
+  - ai@5.0.0-beta.21
+
 ## 1.0.0-beta.20
 
 ### Patch Changes
